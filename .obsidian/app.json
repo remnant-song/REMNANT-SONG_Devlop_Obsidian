@@ -1,0 +1,18 @@
+{
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "resources/image",
+  "openBehavior": "file:毕设记录/todo",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

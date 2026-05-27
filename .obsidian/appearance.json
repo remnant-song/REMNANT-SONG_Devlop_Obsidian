@@ -1,0 +1,10 @@
+{
+  "showViewHeader": false,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "baseFontSize": 20,
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "coffebean-多彩文件夹"
+  ]
+}
