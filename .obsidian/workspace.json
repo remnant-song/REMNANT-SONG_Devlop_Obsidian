@@ -36,17 +36,41 @@
             }
           },
           {
-            "id": "17238a92375b8954",
+            "id": "c64eca0e54ecea5c",
+            "type": "leaf",
+            "state": {
+              "type": "memoria-view",
+              "state": {},
+              "icon": "feather",
+              "title": "Memoria"
+            }
+          },
+          {
+            "id": "f0d496ba5e9e9686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common/daily/网易云日推到这首······.md",
+                "file": "日记/2026-06-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网易云日推到这首······"
+              "title": "2026-06-24"
+            }
+          },
+          {
+            "id": "584ac4a51a54e51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memoria/2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026"
             }
           }
         ],
@@ -107,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 305.5
   },
   "right": {
     "id": "3128664cbda7929d",
@@ -224,17 +248,22 @@
       "bases:新建数据库": false,
       "copilot:Open Copilot Chat": false,
       "notebook-navigator:笔记本导航器": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "memoria:打开 Memoria": false
     }
   },
-  "active": "17238a92375b8954",
+  "active": "584ac4a51a54e51f",
   "lastOpenFiles": [
+    "日记/2026-06-24.md",
+    "Memoria/2026.md",
+    "common/daily/网易云日推到这首······.md",
+    "Memoria/attachments/memoria-20260624-120912-kmka.png",
+    "Memoria/attachments",
+    "Memoria",
     "resources/image/Pasted image 20260624115400.png",
     "resources/image",
     "resources",
     "common/Essays",
-    "日记/2026-06-24.md",
-    "common/daily/网易云日推到这首······.md",
     "common/daily",
     "Exploration and Reflection/tasks_1.md",
     "知识库/What is tailwindcss、postcss、autoprefixer.md",
@@ -262,8 +291,6 @@
     "common/知识库/windows powershell历史本地文件.md",
     "common/知识库/git快速合并.md",
     "common/知识库",
-    "common/开发相关/提交约束提示词.md",
-    "common/开发相关",
-    "common"
+    "common/开发相关/提交约束提示词.md"
   ]
 }
