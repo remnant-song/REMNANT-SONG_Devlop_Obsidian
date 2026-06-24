@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1（核心冲突）",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,7 +253,7 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "f0d496ba5e9e9686",
+  "active": "3a4adc94d7b72788",
   "lastOpenFiles": [
     "Exploration and Reflection/requirements.md",
     "日记/2026-06-24.md",
