@@ -878,24 +878,24 @@
         "newlineCount": 0
       }
     },
-    "Exploration and Reflection/未命名.md": {
+    "Exploration and Reflection/点子1.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 41,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 63,
+      "nonWhitespaceCharacterCount": 49,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.08732075471698113,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1782308347905,
-      "modifiedDate": 1782308347905,
-      "sizeInBytes": 0,
+      "modifiedDate": 1782308367200,
+      "sizeInBytes": 145,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

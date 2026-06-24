@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration and Reflection/未命名.md",
+                "file": "Exploration and Reflection/点子1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "点子1"
             }
           },
           {
@@ -252,10 +252,10 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "f0d496ba5e9e9686",
+  "active": "00d8ff2b4678cdf8",
   "lastOpenFiles": [
     "日记/2026-06-24.md",
-    "Exploration and Reflection/未命名.md",
+    "Exploration and Reflection/点子1.md",
     "common/开发相关/提交约束提示词.md",
     "Exploration and Reflection/requirements.md",
     "Memoria/2026.md",
