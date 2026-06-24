@@ -1,0 +1,12 @@
+{
+  "workspace:undo-close-pane": [],
+  "templater-obsidian:common/template/随机模板_Templater.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}

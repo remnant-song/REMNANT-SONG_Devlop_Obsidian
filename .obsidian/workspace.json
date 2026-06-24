@@ -213,16 +213,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d7b3502680f36fef",
+  "active": "a21a340daf7fcfe3",
   "lastOpenFiles": [
+    "Exploration and Reflection/tasks_1.md",
+    "日记/2026-06-24.md",
+    "知识库/Motion for Vue.md",
+    "日记/Untitled.md",
+    "common/template/随机模板_Templater.md",
     "common/template/随记模版.md",
     "common/template/报错模板.md",
     "common/template/折叠代码段.md",
     "common/template/todo_statu_y.md",
     "common/template/todo_statu_n.md",
     "common/template",
-    "Exploration and Reflection/tasks_1.md",
-    "日记/2026-06-24.md",
     "日记",
     "Exploration and Reflection/技术选型.md",
     "dream/钢琴-嘲讽乡下人.md",
@@ -230,7 +233,6 @@
     "Exploration and Reflection/requirements.md",
     "知识库/What Is PixiJS.md",
     "知识库/What is Json.md",
-    "知识库/Motion for Vue.md",
     "common/知识库/浏览器插件清单文件格式.md",
     "common/知识库/leader键.md",
     "common/开发相关/代码头部注释标准规范.md",
@@ -245,7 +247,6 @@
     "common/开发相关/AI API key list.md",
     "common/开发相关",
     "common",
-    "欢迎.md",
     "知识库",
     "Exploration and Reflection"
   ]

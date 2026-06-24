@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "resources/template",
+  "templates_folder": "common/template",
   "templates_pairs": [
     [
       "",
@@ -29,7 +29,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "resources/template/随记模版.md"
+    "common/template/随机模板_Templater.md"
   ],
   "startup_templates": [
     ""
