@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-06-24.md",
+                "file": "Exploration and Reflection/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-24"
+              "title": "未命名"
             }
           },
           {
@@ -254,8 +254,9 @@
   },
   "active": "f0d496ba5e9e9686",
   "lastOpenFiles": [
-    "common/开发相关/提交约束提示词.md",
     "日记/2026-06-24.md",
+    "Exploration and Reflection/未命名.md",
+    "common/开发相关/提交约束提示词.md",
     "Exploration and Reflection/requirements.md",
     "Memoria/2026.md",
     "common/daily/网易云日推到这首······.md",
@@ -290,7 +291,6 @@
     "common/开发相关/wezterm配置文档.md",
     "common/知识库/任务管理器只搜索进程名PID，不搜索端口号.md",
     "common/知识库/windows powershell历史本地文件.md",
-    "common/知识库/git快速合并.md",
     "common/知识库"
   ]
 }
