@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-06-24.md",
+                "file": "common/daily/网易云日推到这首······.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-24"
+              "title": "网易云日推到这首······"
             }
           }
         ],
@@ -229,8 +229,14 @@
   },
   "active": "17238a92375b8954",
   "lastOpenFiles": [
-    "Exploration and Reflection/tasks_1.md",
+    "resources/image/Pasted image 20260624115400.png",
+    "resources/image",
+    "resources",
+    "common/Essays",
     "日记/2026-06-24.md",
+    "common/daily/网易云日推到这首······.md",
+    "common/daily",
+    "Exploration and Reflection/tasks_1.md",
     "知识库/What is tailwindcss、postcss、autoprefixer.md",
     "知识库/Motion for Vue.md",
     "日记/Untitled.md",
@@ -257,11 +263,7 @@
     "common/知识库/git快速合并.md",
     "common/知识库",
     "common/开发相关/提交约束提示词.md",
-    "common/开发相关/Obsidian common vault.md",
-    "common/开发相关/Conventional Commits（约定式提交）规范.md",
     "common/开发相关",
-    "common",
-    "知识库",
-    "Exploration and Reflection"
+    "common"
   ]
 }
