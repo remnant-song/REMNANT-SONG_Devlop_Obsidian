@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,10 +252,10 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "00d8ff2b4678cdf8",
+  "active": "6b5b89cc70e79882",
   "lastOpenFiles": [
-    "日记/2026-06-24.md",
     "Exploration and Reflection/点子1.md",
+    "日记/2026-06-24.md",
     "common/开发相关/提交约束提示词.md",
     "Exploration and Reflection/requirements.md",
     "Memoria/2026.md",
