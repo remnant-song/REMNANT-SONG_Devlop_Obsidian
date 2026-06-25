@@ -254,9 +254,10 @@
   },
   "active": "6b5b89cc70e79882",
   "lastOpenFiles": [
+    "common/开发相关/wezterm配置文档.md",
+    "Exploration and Reflection/针对Astro的适用性分析.md",
     "Exploration and Reflection/requirements_2.0.md",
     "Exploration and Reflection/requirements.md",
-    "Exploration and Reflection/针对Astro的适用性分析.md",
     "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
     "Exploration and Reflection/技术选型_v1.md",
     "Exploration and Reflection/tasks_1.md",
@@ -290,7 +291,6 @@
     "知识库/What is Json.md",
     "common/知识库/浏览器插件清单文件格式.md",
     "common/知识库/leader键.md",
-    "common/开发相关/代码头部注释标准规范.md",
     "common/知识库"
   ]
 }
