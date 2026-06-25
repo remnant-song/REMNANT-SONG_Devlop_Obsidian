@@ -338,33 +338,6 @@
         "newlineCount": 286
       }
     },
-    "Exploration and Reflection/技术选型.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 612,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.04,
-      "characterCount": 1208,
-      "nonWhitespaceCharacterCount": 1044,
-      "newlineCount": 47,
-      "readingTimeInMinutes": 1.3250943396226416,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1779446779101,
-      "modifiedDate": 1779448304175,
-      "sizeInBytes": 2506,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.04,
-        "wordCount": 612,
-        "characterCount": 1208,
-        "nonWhitespaceCharacterCount": 1044,
-        "newlineCount": 47
-      }
-    },
     "Exploration and Reflection/requirements.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -876,6 +849,60 @@
         "characterCount": 369,
         "nonWhitespaceCharacterCount": 351,
         "newlineCount": 19
+      }
+    },
+    "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7662,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 25.54,
+      "characterCount": 21504,
+      "nonWhitespaceCharacterCount": 18160,
+      "newlineCount": 1164,
+      "readingTimeInMinutes": 17.407962264150942,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1782395513505,
+      "modifiedDate": 1782395643145,
+      "sizeInBytes": 35662,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Exploration and Reflection/技术选型_v1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 612,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.04,
+      "characterCount": 1208,
+      "nonWhitespaceCharacterCount": 1044,
+      "newlineCount": 47,
+      "readingTimeInMinutes": 1.3250943396226416,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1779446779101,
+      "modifiedDate": 1779448304175,
+      "sizeInBytes": 2506,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     }
   }
