@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration and Reflection/首屏/星际穿越/需求解析和技术路径.md",
+                "file": "Exploration and Reflection/首屏/未命名/色彩海洋.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "需求解析和技术路径"
+              "title": "色彩海洋"
             }
           }
         ],
@@ -254,10 +254,12 @@
   },
   "active": "6b5b89cc70e79882",
   "lastOpenFiles": [
+    "Exploration and Reflection/首屏/前端3d技术讨论.md",
+    "Exploration and Reflection/首屏/未命名/色彩海洋.md",
+    "Exploration and Reflection/首屏/未命名",
+    "Exploration and Reflection/首屏/星际穿越/需求解析和技术路径.md",
     "日记/2026-06-24.md",
     "Exploration and Reflection/点子1.md",
-    "Exploration and Reflection/首屏/星际穿越/需求解析和技术路径.md",
-    "Exploration and Reflection/首屏/前端3d技术讨论.md",
     "Exploration and Reflection/首屏/星际穿越/技术选型讨论.md",
     "Exploration and Reflection/requirements.md",
     "Exploration and Reflection/首屏/星际穿越",
@@ -289,8 +291,6 @@
     "common/template/todo_statu_y.md",
     "common/template/todo_statu_n.md",
     "common/template",
-    "日记",
-    "dream/钢琴-嘲讽乡下人.md",
-    "知识库/What Is PixiJS.md"
+    "dream/钢琴-嘲讽乡下人.md"
   ]
 }
