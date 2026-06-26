@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-06-26.md",
+                "file": "Exploration and Reflection/首屏/色彩海洋/ThreeJS着色器打造震撼海洋动画背景.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-26"
+              "title": "ThreeJS着色器打造震撼海洋动画背景"
             }
           },
           {
@@ -254,9 +254,17 @@
   },
   "active": "f0d496ba5e9e9686",
   "lastOpenFiles": [
-    "日记/2026-06-24.md",
-    "日记/2026-06-26.md",
+    "Exploration and Reflection/首屏/色彩海洋/案例&教程.md",
+    "Exploration and Reflection/首屏/色彩海洋/ThreeJS着色器打造震撼海洋动画背景.md",
+    "Exploration and Reflection/首屏/色彩海洋/Three.js 实现真实海面，核心就这几个 Shader 技巧.md",
+    "Exploration and Reflection/首屏/色彩海洋/Threejs制作大海效果.md",
+    "resources/image/Pasted image 20260626153632.png",
     "Exploration and Reflection/首屏/色彩海洋/提示词_1.md",
+    "resources/image/Pasted image 20260626153426.png",
+    "resources/image/Pasted image 20260626153415.png",
+    "resources/image/Pasted image 20260624115400.png",
+    "日记/2026-06-26.md",
+    "日记/2026-06-24.md",
     "Exploration and Reflection/首屏/色彩海洋/需求文档.md",
     "Exploration and Reflection/首屏/未命名/未命名",
     "Exploration and Reflection/首屏/前端3d技术讨论.md",
@@ -279,7 +287,6 @@
     "Memoria/attachments/memoria-20260624-120912-kmka.png",
     "Memoria/attachments",
     "Memoria",
-    "resources/image/Pasted image 20260624115400.png",
     "resources/image",
     "resources",
     "common/Essays",
@@ -287,10 +294,6 @@
     "知识库/What is tailwindcss、postcss、autoprefixer.md",
     "知识库/Motion for Vue.md",
     "日记/Untitled.md",
-    "common/template/随机模板_Templater.md",
-    "common/template/随记模版.md",
-    "common/template/报错模板.md",
-    "common/template/折叠代码段.md",
-    "common/template/todo_statu_y.md"
+    "common/template/随机模板_Templater.md"
   ]
 }
