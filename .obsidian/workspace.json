@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,8 +252,9 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "f0d496ba5e9e9686",
+  "active": "6b5b89cc70e79882",
   "lastOpenFiles": [
+    "日记/2026-06-24.md",
     "Exploration and Reflection/点子1.md",
     "Exploration and Reflection/首屏/星际穿越/需求解析和技术路径.md",
     "Exploration and Reflection/首屏/前端3d技术讨论.md",
@@ -267,7 +268,6 @@
     "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
     "Exploration and Reflection/技术选型_v1.md",
     "Exploration and Reflection/tasks_1.md",
-    "日记/2026-06-24.md",
     "common/开发相关/提交约束提示词.md",
     "Memoria/2026.md",
     "common/daily/网易云日推到这首······.md",
