@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/three.js 渲染流程解析.md",
+                "file": "Exploration and Reflection/首屏/色彩海洋/技术选型讨论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "three.js 渲染流程解析"
+              "title": "技术选型讨论"
             }
           }
         ],
@@ -240,8 +240,10 @@
   },
   "active": "f0d496ba5e9e9686",
   "lastOpenFiles": [
-    "日记/2026-06-26.md",
+    "resources/image/Pasted image 20260628203032.png",
     "知识库/three.js 渲染流程解析.md",
+    "Exploration and Reflection/首屏/色彩海洋/技术选型讨论.md",
+    "日记/2026-06-26.md",
     "Exploration and Reflection/首屏/暗调魔法霓虹/设计需求与提示词.md",
     "Exploration and Reflection/首屏/色彩海洋/【案例】Three.js 模拟水波纹与天空场景.md",
     "Exploration and Reflection/首屏/暗调魔法霓虹",
@@ -273,13 +275,11 @@
     "Exploration and Reflection/tasks_1.md",
     "common/开发相关/提交约束提示词.md",
     "Memoria/2026.md",
-    "common/daily/网易云日推到这首······.md",
     "Memoria/attachments/memoria-20260624-120912-kmka.png",
     "Memoria/attachments",
     "Memoria",
     "resources/image",
     "resources",
-    "common/Essays",
-    "知识库/What is tailwindcss、postcss、autoprefixer.md"
+    "common/Essays"
   ]
 }
