@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-06-28.md",
+                "file": "日记/2026-06-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-28"
+              "title": "2026-06-29"
             }
           }
         ],
@@ -240,8 +240,9 @@
   },
   "active": "f0d496ba5e9e9686",
   "lastOpenFiles": [
-    "Exploration and Reflection/首屏/前端3d技术讨论.md",
     "日记/2026-06-28.md",
+    "日记/2026-06-29.md",
+    "Exploration and Reflection/首屏/前端3d技术讨论.md",
     "Exploration and Reflection/首屏/色彩海洋/技术选型讨论.md",
     "Exploration and Reflection/首屏/流体背景",
     "resources/image/Pasted image 20260628203032.png",
@@ -276,7 +277,6 @@
     "Exploration and Reflection/技术选型_v1.md",
     "Exploration and Reflection/tasks_1.md",
     "common/开发相关/提交约束提示词.md",
-    "Memoria/2026.md",
     "Memoria/attachments/memoria-20260624-120912-kmka.png",
     "Memoria/attachments",
     "Memoria",
