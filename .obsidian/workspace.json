@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,11 +238,11 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "a21a340daf7fcfe3",
+  "active": "f0d496ba5e9e9686",
   "lastOpenFiles": [
+    "Exploration and Reflection/requirements_4.0.md",
     "Exploration and Reflection/tasks_1.md",
     "知识库/What is tailwindcss、postcss、autoprefixer.md",
-    "Exploration and Reflection/requirements_4.0.md",
     "Exploration and Reflection/requirements_2.0.md",
     "Exploration and Reflection/requirements.md",
     "Exploration and Reflection/技术选型_v1.md",
