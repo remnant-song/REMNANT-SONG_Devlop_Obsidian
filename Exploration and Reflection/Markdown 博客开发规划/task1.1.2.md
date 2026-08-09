@@ -148,9 +148,3 @@ pnpm dev
 | 装 `gray-matter` | 不需要。Step 1 的文章没有 frontmatter；如果有人在 md 里误写了 `---`，markdown-it 默认会渲染成 `<hr>`，肉眼可见地不对，届时再加 `matter(content).content` 剥掉 |
 | 设计 `renderPost()` 流水线（frontmatter → md.render → image → sanitize） | 不需要。Step 1 只有一个函数：`renderMarkdown(raw) → html` |
 | 写自校验 / 自测试脚本 | 不需要。浏览器 `http://localhost:5173/blog` 就是唯一的验收标准 |
-
----
-
-这份文档现在**删除速度比新增速度快**：砍掉了 PostMeta / PostsIndex / loaders / composables / 虚拟模块 / 环境变量 / gray-matter / frontmatter / 文件名规则 / 同步脚本 / 验收框架 / 自校验脚本 / 六阶段规划 / 熔断表。
-
-如果这份只有 1 个依赖、4 个文件（其中 2 个新建、1 个已有文件插 5 行路由）的规划你认了，下一轮我直接开始写代码。
