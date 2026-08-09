@@ -104,9 +104,6 @@ remnant-song-blog-posts/
   console.log('hello')
   ```
 
-  > 引用块
-  ```
-  （内容覆盖所有标准 markdown 语法，作为将来渲染回归样例）
 - **验收**：浏览器访问文章仓库能看到 `posts/` 下的 md 文件。
 
 ---
