@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "Markdown 博客开发规划"
             }
+          },
+          {
+            "id": "db84e123e007ce59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-08-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-09"
+            }
           }
         ]
       }
@@ -153,14 +167,18 @@
   },
   "active": "6ab52ddb215ba28b",
   "lastOpenFiles": [
-    "Exploration and Reflection/Markdown 博客开发规划/Markdown 博客开发规划.md",
+    "日记/2026-08-09.md",
+    "日记/2026-06-29.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.1.md",
+    "Exploration and Reflection/Markdown 博客开发规划/Markdown 博客开发规划.md",
+    "日记/2026-06-24.md",
+    "日记/2026-06-26.md",
+    "日记/2026-06-28.md",
     "common/知识库/大语言模型文件.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.md",
     "Exploration and Reflection/requirements_4.0.md",
     "Exploration and Reflection/Markdown 博客开发规划",
     "Exploration and Reflection/requirements_3.0.md",
-    "日记/2026-06-29.md",
     "Exploration and Reflection/针对Astro的适用性分析.md",
     "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
     "Exploration and Reflection/tasks_1.md",
@@ -168,22 +186,18 @@
     "Exploration and Reflection/requirements_2.0.md",
     "Exploration and Reflection/requirements.md",
     "Exploration and Reflection/技术选型_v1.md",
-    "日记/2026-06-28.md",
     "Exploration and Reflection/首屏/前端3d技术讨论.md",
     "Exploration and Reflection/首屏/色彩海洋/技术选型讨论.md",
     "Exploration and Reflection/首屏/流体背景",
     "resources/image/Pasted image 20260628203032.png",
     "知识库/three.js 渲染流程解析.md",
-    "日记/2026-06-26.md",
     "Exploration and Reflection/首屏/暗调魔法霓虹/设计需求与提示词.md",
     "Exploration and Reflection/首屏/色彩海洋/【案例】Three.js 模拟水波纹与天空场景.md",
     "Exploration and Reflection/首屏/暗调魔法霓虹",
     "Exploration and Reflection/首屏/色彩海洋/案例&教程.md",
     "Exploration and Reflection/首屏/色彩海洋/ThreeJS着色器打造震撼海洋动画背景.md",
     "Exploration and Reflection/首屏/色彩海洋/Three.js 实现真实海面，核心就这几个 Shader 技巧.md",
-    "Exploration and Reflection/首屏/色彩海洋/Threejs制作大海效果.md",
     "resources/image/Pasted image 20260626153632.png",
-    "Exploration and Reflection/首屏/色彩海洋/提示词_1.md",
     "resources/image/Pasted image 20260626153426.png",
     "resources/image/Pasted image 20260626153415.png",
     "resources/image/Pasted image 20260624115400.png",
