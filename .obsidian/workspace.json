@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration and Reflection/Markdown 博客开发规划/task1.1.md",
+                "file": "Exploration and Reflection/Markdown 博客开发规划/task1.1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "task1.1"
+              "title": "task1.1.2"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "2026-08-11"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,14 +227,14 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "db84e123e007ce59",
+  "active": "6ab52ddb215ba28b",
   "lastOpenFiles": [
-    "common/开发相关/AI API key list.md",
-    "日记/2026-08-11.md",
-    "日记/2026-08-10.md",
-    "Exploration and Reflection/Markdown 博客开发规划/task1.1.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.1.1.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.1.2.md",
+    "Exploration and Reflection/Markdown 博客开发规划/task1.1.md",
+    "日记/2026-08-11.md",
+    "common/开发相关/AI API key list.md",
+    "日记/2026-08-10.md",
     "日记/2026-08-09.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.md",
     "Exploration and Reflection/Markdown 博客开发规划/Markdown 博客开发规划.md",
