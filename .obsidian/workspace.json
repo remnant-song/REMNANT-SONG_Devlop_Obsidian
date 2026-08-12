@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration and Reflection/技术选型_v1.md",
+                "file": "Exploration and Reflection/部署方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技术选型_v1"
+              "title": "部署方案"
             }
           }
         ],
@@ -230,6 +230,8 @@
   },
   "active": "db84e123e007ce59",
   "lastOpenFiles": [
+    "Exploration and Reflection/技术选型_v1.md",
+    "Exploration and Reflection/部署方案.md",
     "日记/2026-08-12.md",
     "Exploration and Reflection/requirements_4.0.md",
     "Exploration and Reflection/tasks_1.md",
@@ -255,8 +257,6 @@
     "知识库/What is tailwindcss、postcss、autoprefixer.md",
     "Exploration and Reflection/requirements_2.0.md",
     "Exploration and Reflection/requirements.md",
-    "Exploration and Reflection/技术选型_v1.md",
-    "Exploration and Reflection/首屏/前端3d技术讨论.md",
     "Exploration and Reflection/首屏/流体背景",
     "resources/image/Pasted image 20260628203032.png",
     "Exploration and Reflection/首屏/暗调魔法霓虹",
