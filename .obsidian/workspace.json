@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration and Reflection/技术选型_v1.md",
+                "file": "日记/2026-08-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技术选型_v1"
+              "title": "2026-08-13"
             }
           }
         ],
@@ -230,13 +230,14 @@
   },
   "active": "db84e123e007ce59",
   "lastOpenFiles": [
-    "Exploration and Reflection/联系页.md",
     "日记/2026-08-12.md",
+    "日记/2026-08-13.md",
+    "Exploration and Reflection/技术选型_v1.md",
+    "Exploration and Reflection/联系页.md",
     "Exploration and Reflection/部署方案.md",
     "Exploration and Reflection/Markdown 博客开发规划/Markdown 博客开发规划.md",
     "common/开发相关/AI API key list.md",
     "日记/2026-08-11.md",
-    "Exploration and Reflection/技术选型_v1.md",
     "Exploration and Reflection/requirements_4.0.md",
     "Exploration and Reflection/tasks_1.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.md",
@@ -256,7 +257,6 @@
     "Exploration and Reflection/针对Astro的适用性分析.md",
     "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
     "知识库/What is tailwindcss、postcss、autoprefixer.md",
-    "Exploration and Reflection/requirements_2.0.md",
     "Exploration and Reflection/首屏/流体背景",
     "resources/image/Pasted image 20260628203032.png",
     "Exploration and Reflection/首屏/暗调魔法霓虹",
