@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "2026-08-12"
             }
+          },
+          {
+            "id": "ee2ee8c13703a92a",
+            "type": "leaf",
+            "state": {
+              "type": "memoria-view",
+              "state": {},
+              "icon": "feather",
+              "title": "Memoria"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,7 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "db84e123e007ce59",
+  "active": "ee2ee8c13703a92a",
   "lastOpenFiles": [
     "日记/2026-08-13.md",
     "日记/2026-08-18.md",
