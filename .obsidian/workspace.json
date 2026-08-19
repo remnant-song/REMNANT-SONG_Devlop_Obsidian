@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-08-18.md",
+                "file": "日记/2026-08-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-18"
+              "title": "2026-08-12"
             }
           }
         ],
@@ -230,9 +230,9 @@
   },
   "active": "db84e123e007ce59",
   "lastOpenFiles": [
-    "common/开发相关/AI API key list.md",
-    "日记/2026-08-18.md",
     "日记/2026-08-13.md",
+    "日记/2026-08-18.md",
+    "common/开发相关/AI API key list.md",
     "日记/2026-08-12.md",
     "Exploration and Reflection/技术选型_v1.md",
     "Exploration and Reflection/联系页.md",
