@@ -68,33 +68,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "知识库/What is tailwindcss、postcss、autoprefixer.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1782271607795,
-      "modifiedDate": 1782271799124,
-      "sizeInBytes": 4358,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "知识库/What Is PixiJS.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -113,6 +86,33 @@
       "createdDate": 1781407809021,
       "modifiedDate": 1781407821927,
       "sizeInBytes": 887,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "知识库/What is tailwindcss、postcss、autoprefixer.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1782271607795,
+      "modifiedDate": 1782271799124,
+      "sizeInBytes": 4358,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -473,6 +473,60 @@
         "newlineCount": 0
       }
     },
+    "Memoria/attachments/memoria-20260624-120912-kmka.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1782274152857,
+      "modifiedDate": 1782274152858,
+      "sizeInBytes": 1418726,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Memoria/2026.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 241,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8033333333333333,
+      "characterCount": 426,
+      "nonWhitespaceCharacterCount": 372,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.4979622641509434,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1782274173513,
+      "modifiedDate": 1787147336407,
+      "sizeInBytes": 960,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8033333333333333,
+        "wordCount": 241,
+        "characterCount": 426,
+        "nonWhitespaceCharacterCount": 372,
+        "newlineCount": 25
+      }
+    },
     "resources/image/Pasted image 20260628203032.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -598,60 +652,6 @@
       "aliases": [],
       "createdDate": 1782273240831,
       "modifiedDate": 1782273240834,
-      "sizeInBytes": 1418726,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "Memoria/2026.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 241,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8033333333333333,
-      "characterCount": 426,
-      "nonWhitespaceCharacterCount": 372,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.4979622641509434,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1782274173513,
-      "modifiedDate": 1787147336407,
-      "sizeInBytes": 960,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8033333333333333,
-        "wordCount": 241,
-        "characterCount": 426,
-        "nonWhitespaceCharacterCount": 372,
-        "newlineCount": 25
-      }
-    },
-    "Memoria/attachments/memoria-20260624-120912-kmka.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1782274152857,
-      "modifiedDate": 1782274152858,
       "sizeInBytes": 1418726,
       "sessionStart": {
         "noteCount": 0,
@@ -1094,33 +1094,6 @@
         "newlineCount": 0
       }
     },
-    "Exploration and Reflection/动画效果技术.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1786449969596,
-      "modifiedDate": 1786449995285,
-      "sizeInBytes": 5150,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Exploration and Reflection/技术选型_v1.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1139,6 +1112,33 @@
       "createdDate": 1779446779101,
       "modifiedDate": 1779448304175,
       "sizeInBytes": 2506,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Exploration and Reflection/动画效果技术.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1786449969596,
+      "modifiedDate": 1786449995285,
+      "sizeInBytes": 5150,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1229,33 +1229,6 @@
         "newlineCount": 0
       }
     },
-    "Exploration and Reflection/requirements_2.0.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1782396226916,
-      "modifiedDate": 1782876832001,
-      "sizeInBytes": 3031,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Exploration and Reflection/requirements_3.0.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1274,6 +1247,33 @@
       "createdDate": 1782876953445,
       "modifiedDate": 1783773307246,
       "sizeInBytes": 8247,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Exploration and Reflection/requirements_2.0.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1782396226916,
+      "modifiedDate": 1782876832001,
+      "sizeInBytes": 3031,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1310,33 +1310,6 @@
         "newlineCount": 0
       }
     },
-    "Exploration and Reflection/Markdown 博客开发规划/task1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1786257020981,
-      "modifiedDate": 1786257642597,
-      "sizeInBytes": 5499,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "Exploration and Reflection/Markdown 博客开发规划/task1.1.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1355,6 +1328,33 @@
       "createdDate": 1786258180773,
       "modifiedDate": 1786259620827,
       "sizeInBytes": 36189,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Exploration and Reflection/Markdown 博客开发规划/task1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1786257020981,
+      "modifiedDate": 1786257642597,
+      "sizeInBytes": 5499,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1472,33 +1472,6 @@
         "newlineCount": 0
       }
     },
-    "common/知识库/大语言模型文件.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1786258996530,
-      "modifiedDate": 1786258999369,
-      "sizeInBytes": 4378,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "common/知识库/浏览器插件清单文件格式.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1526,7 +1499,7 @@
         "newlineCount": 0
       }
     },
-    "common/知识库/windows powershell历史本地文件.md": {
+    "common/知识库/大语言模型文件.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1541,9 +1514,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1782050337665,
-      "modifiedDate": 1782050337665,
-      "sizeInBytes": 69,
+      "createdDate": 1786258996530,
+      "modifiedDate": 1786258999369,
+      "sizeInBytes": 4378,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1571,6 +1544,33 @@
       "createdDate": 1782050337666,
       "modifiedDate": 1782050337666,
       "sizeInBytes": 1706,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "common/知识库/windows powershell历史本地文件.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1782050337665,
+      "modifiedDate": 1782050337665,
+      "sizeInBytes": 69,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1634,7 +1634,7 @@
         "newlineCount": 0
       }
     },
-    "common/开发相关/提交约束提示词.md": {
+    "common/开发相关/wezterm配置文档.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1649,9 +1649,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1782050337664,
-      "modifiedDate": 1782305569522,
-      "sizeInBytes": 4276,
+      "createdDate": 1782225033226,
+      "modifiedDate": 1782396460619,
+      "sizeInBytes": 13361,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1688,7 +1688,7 @@
         "newlineCount": 0
       }
     },
-    "common/开发相关/wezterm配置文档.md": {
+    "common/开发相关/提交约束提示词.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1703,9 +1703,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1782225033226,
-      "modifiedDate": 1782396460619,
-      "sizeInBytes": 13361,
+      "createdDate": 1782050337664,
+      "modifiedDate": 1782305569522,
+      "sizeInBytes": 4276,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1796,33 +1796,6 @@
         "newlineCount": 0
       }
     },
-    "common/template/随记模版.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1782269227150,
-      "modifiedDate": 1782269227151,
-      "sizeInBytes": 56,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "common/template/随机模板_Templater.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1868,6 +1841,33 @@
       "createdDate": 1782269227150,
       "modifiedDate": 1782269227150,
       "sizeInBytes": 173,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "common/template/随记模版.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1782269227150,
+      "modifiedDate": 1782269227151,
+      "sizeInBytes": 56,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
