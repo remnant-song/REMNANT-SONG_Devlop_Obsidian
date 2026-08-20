@@ -58,9 +58,23 @@
               "icon": "feather",
               "title": "Memoria"
             }
+          },
+          {
+            "id": "46c59c73c7c6c1f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-08-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-20"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,8 +252,9 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "ee2ee8c13703a92a",
+  "active": "46c59c73c7c6c1f9",
   "lastOpenFiles": [
+    "日记/2026-08-20.md",
     "日记/2026-08-13.md",
     "日记/2026-08-18.md",
     "common/开发相关/AI API key list.md",
@@ -266,7 +281,6 @@
     "Exploration and Reflection/Markdown 博客开发规划",
     "Exploration and Reflection/requirements_3.0.md",
     "Exploration and Reflection/针对Astro的适用性分析.md",
-    "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
     "Exploration and Reflection/首屏/流体背景",
     "resources/image/Pasted image 20260628203032.png",
     "Exploration and Reflection/首屏/暗调魔法霓虹",
