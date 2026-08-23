@@ -50,16 +50,6 @@
             }
           },
           {
-            "id": "ee2ee8c13703a92a",
-            "type": "leaf",
-            "state": {
-              "type": "memoria-view",
-              "state": {},
-              "icon": "feather",
-              "title": "Memoria"
-            }
-          },
-          {
             "id": "46c59c73c7c6c1f9",
             "type": "leaf",
             "state": {
@@ -74,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
