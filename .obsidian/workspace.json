@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-08-25.md",
+                "file": "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-25"
+              "title": "从零搭建Astro博客：1小时完成首页到部署的完整指南"
             }
           }
         ],
@@ -244,8 +244,8 @@
   },
   "active": "46c59c73c7c6c1f9",
   "lastOpenFiles": [
-    "Exploration and Reflection/Markdown 博客开发规划/task1.1.md",
     "日记/2026-08-25.md",
+    "Exploration and Reflection/Markdown 博客开发规划/task1.1.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.1.1.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.1.2.md",
     "日记/2026-08-20.md",
