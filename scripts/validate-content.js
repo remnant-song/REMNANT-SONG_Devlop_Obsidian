@@ -42,6 +42,13 @@ function scanMarkdownFiles(dir) {
   return results
 }
 
+/** 将 Date 或字符串统一转为 YYYY-MM-DD 格式 */
+function formatDate(d) {
+  if (typeof d === 'string') return d.slice(0, 10)
+  if (d instanceof Date) return d.toISOString().slice(0, 10)
+  return String(d)
+}
+
 function main() {
   const files = scanMarkdownFiles(POSTS_DIR)
   console.log(`[validate] 校验 ${files.length} 篇文章...`)
@@ -65,14 +72,20 @@ function main() {
         warnings++
       }
 
-      // 检查日期格式
-      if (data.date && !/^\d{4}-\d{2}-\d{2}$/.test(String(data.date))) {
-        console.error(`[validate] ERR: ${relative} — date 格式错误: ${data.date}`)
-        errors++
+      // 检查日期格式（gray-matter 可能将 YAML 日期解析为 Date 对象）
+      if (data.date) {
+        const dateStr = formatDate(data.date)
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+          console.error(`[validate] ERR: ${relative} — date 格式错误: ${data.date}`)
+          errors++
+        }
       }
-      if (data.updated && !/^\d{4}-\d{2}-\d{2}$/.test(String(data.updated))) {
-        console.error(`[validate] ERR: ${relative} — updated 格式错误: ${data.updated}`)
-        errors++
+      if (data.updated) {
+        const updatedStr = formatDate(data.updated)
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(updatedStr)) {
+          console.error(`[validate] ERR: ${relative} — updated 格式错误: ${data.updated}`)
+          errors++
+        }
       }
 
       // 检查 tags 类型
