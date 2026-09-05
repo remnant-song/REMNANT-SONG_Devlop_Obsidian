@@ -242,8 +242,16 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "46c59c73c7c6c1f9",
+  "active": "d7b3502680f36fef",
   "lastOpenFiles": [
+    "scripts/validate-content.js",
+    "package.json",
+    "scripts/build-content-manifest.js",
+    "schemas/frontmatter.schema.json",
+    "manifests",
+    "scripts",
+    "schemas",
+    "posts",
     "Exploration and Reflection/针对Astro的适用性分析.md",
     "Exploration and Reflection/ASTRO_MIGRATION_PLAN.md",
     "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
@@ -269,7 +277,6 @@
     "日记/2026-08-09.md",
     "日记/2026-06-29.md",
     "日记/2026-06-24.md",
-    "日记/2026-06-26.md",
     "Exploration and Reflection/Markdown 博客开发规划",
     "Exploration and Reflection/首屏/流体背景",
     "resources/image/Pasted image 20260628203032.png",
@@ -278,13 +285,6 @@
     "resources/image/Pasted image 20260626153426.png",
     "resources/image/Pasted image 20260626153415.png",
     "resources/image/Pasted image 20260624115400.png",
-    "Exploration and Reflection/首屏/未命名/未命名",
-    "Exploration and Reflection/首屏/色彩海洋",
-    "Exploration and Reflection/首屏/星际穿越",
-    "Exploration and Reflection/首屏",
-    "Memoria/attachments/memoria-20260624-120912-kmka.png",
-    "Memoria/attachments",
-    "Memoria",
-    "resources/image"
+    "Memoria/attachments/memoria-20260624-120912-kmka.png"
   ]
 }
