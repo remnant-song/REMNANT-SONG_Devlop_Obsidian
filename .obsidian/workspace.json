@@ -242,8 +242,10 @@
       "memoria:打开 Memoria": false
     }
   },
-  "active": "d7b3502680f36fef",
+  "active": "46c59c73c7c6c1f9",
   "lastOpenFiles": [
+    "posts/tech/2026-09-01-astro-migration-demo.md",
+    "posts/tech",
     "manifests/changed-slugs.json",
     "manifests/tags.json",
     "manifests/categories.json",
@@ -253,8 +255,6 @@
     "node_modules/sprintf-js/demo/angular.html",
     "node_modules/sprintf-js/demo",
     "node_modules/sprintf-js/src/angular-sprintf.js",
-    "node_modules/sprintf-js/src/sprintf.js",
-    "node_modules/sprintf-js/src",
     "node_modules/sprintf-js/README.md",
     "node_modules/argparse/README.md",
     "node_modules/argparse/CHANGELOG.md",
