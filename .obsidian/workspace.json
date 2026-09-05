@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
+                "file": "Exploration and Reflection/ASTRO_MIGRATION_PLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "从零搭建Astro博客：1小时完成首页到部署的完整指南"
+              "title": "ASTRO_MIGRATION_PLAN"
             }
           }
         ],
@@ -244,6 +244,9 @@
   },
   "active": "46c59c73c7c6c1f9",
   "lastOpenFiles": [
+    "Exploration and Reflection/针对Astro的适用性分析.md",
+    "Exploration and Reflection/ASTRO_MIGRATION_PLAN.md",
+    "Exploration and Reflection/从零搭建Astro博客：1小时完成首页到部署的完整指南.md",
     "日记/2026-08-25.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.1.md",
     "Exploration and Reflection/Markdown 博客开发规划/task1.1.1.md",
@@ -267,10 +270,7 @@
     "日记/2026-06-29.md",
     "日记/2026-06-24.md",
     "日记/2026-06-26.md",
-    "日记/2026-06-28.md",
-    "common/知识库/大语言模型文件.md",
     "Exploration and Reflection/Markdown 博客开发规划",
-    "Exploration and Reflection/requirements_3.0.md",
     "Exploration and Reflection/首屏/流体背景",
     "resources/image/Pasted image 20260628203032.png",
     "Exploration and Reflection/首屏/暗调魔法霓虹",
