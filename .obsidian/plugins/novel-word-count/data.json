@@ -2136,8 +2136,8 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1788623492435,
-      "modifiedDate": 1788624741011,
-      "sizeInBytes": 3677,
+      "modifiedDate": 1788659518759,
+      "sizeInBytes": 3960,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -5322,7 +5322,7 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1788623705201,
-      "modifiedDate": 1788624572374,
+      "modifiedDate": 1788659440212,
       "sizeInBytes": 2,
       "sessionStart": {
         "noteCount": 0,
@@ -5474,6 +5474,33 @@
       "createdDate": 1788623624995,
       "modifiedDate": 1788623624995,
       "sizeInBytes": 81,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Exploration and Reflection/CODE_WIKI.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4220,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.066666666666666,
+      "characterCount": 20858,
+      "nonWhitespaceCharacterCount": 16505,
+      "newlineCount": 806,
+      "readingTimeInMinutes": 10.403358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1788677359629,
+      "modifiedDate": 1788677359629,
+      "sizeInBytes": 30377,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
