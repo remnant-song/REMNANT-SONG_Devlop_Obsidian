@@ -2092,6 +2092,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "common/template/博客文章_Templater.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 291,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.97,
+      "characterCount": 1495,
+      "nonWhitespaceCharacterCount": 1283,
+      "newlineCount": 56,
+      "readingTimeInMinutes": 0.7540377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1788689351385,
+      "modifiedDate": 1788689351385,
+      "sizeInBytes": 1945,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
