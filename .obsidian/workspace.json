@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration and Reflection/CODE_WIKI.md",
+                "file": "Exploration and Reflection/MARKDOWN_GUIDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CODE_WIKI"
+              "title": "MARKDOWN_GUIDE"
             }
           }
         ],
@@ -246,6 +246,7 @@
   "lastOpenFiles": [
     "Exploration and Reflection/ASTRO_MIGRATION_PLAN.md",
     "Exploration and Reflection/CODE_WIKI.md",
+    "Exploration and Reflection/MARKDOWN_GUIDE.md",
     "node_modules/js-yaml/index.js",
     "node_modules/section-matter/index.js",
     "node_modules/section-matter/package.json",
@@ -279,7 +280,6 @@
     "日记/2026-08-13.md",
     "日记/2026-08-18.md",
     "common/开发相关/AI API key list.md",
-    "日记/2026-08-12.md",
     "resources/image/Pasted image 20260628203032.png",
     "resources/image/Pasted image 20260626153632.png",
     "resources/image/Pasted image 20260626153426.png",
