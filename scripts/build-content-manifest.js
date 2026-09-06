@@ -18,15 +18,28 @@ import matter from 'gray-matter'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, '..')
-const POSTS_DIR = path.join(ROOT, 'posts')
+/*
+ * @Modify: 2026-09-06, Bug 修复 — 扫描整个 Obsidian Vault
+ *   之前仅扫描 posts/ 子目录，导致 vault 中其他目录的文章
+ *   （dream/、Exploration and Reflection/ 等）无法被索引。
+ *   现在扫描 vault 根目录下所有 .md 文件，
+ *   排除 non-article 目录（common/scripts/manifests/schemas 等）。
+ */
+const POSTS_DIR = ROOT
+/** 不参与文章索引的目录（模板、脚本、配置等） */
+const EXCLUDED_DIRS = new Set([
+  'common', 'scripts', 'manifests', 'schemas',
+  'node_modules', '.git', '.obsidian', 'posts',
+  '.trash',
+])
 const MANIFESTS_DIR = path.join(ROOT, 'manifests')
 
 // ============================================================
 // 工具函数
 // ============================================================
 
-/** 递归扫描目录下所有 .md 文件 */
-function scanMarkdownFiles(dir) {
+/** 递归扫描目录下所有 .md 文件，排除 non-article 目录 */
+function scanMarkdownFiles(dir, depth = 0) {
   const results = []
   if (!fs.existsSync(dir)) return results
 
@@ -34,9 +47,10 @@ function scanMarkdownFiles(dir) {
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name)
     if (entry.isDirectory()) {
-      // 跳过以 . 开头的隐藏目录和特定排除目录
+      // 跳过以 . 开头的隐藏目录和排除目录
       if (entry.name.startsWith('.')) continue
-      results.push(...scanMarkdownFiles(fullPath))
+      if (depth === 0 && EXCLUDED_DIRS.has(entry.name)) continue
+      results.push(...scanMarkdownFiles(fullPath, depth + 1))
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
       results.push(fullPath)
     }

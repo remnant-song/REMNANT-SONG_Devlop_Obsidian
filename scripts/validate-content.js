@@ -16,7 +16,15 @@ import matter from 'gray-matter'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, '..')
-const POSTS_DIR = path.join(ROOT, 'posts')
+/*
+ * @Modify: 2026-09-06, Bug 修复 — 扫描整个 Obsidian Vault
+ */
+const POSTS_DIR = ROOT
+const EXCLUDED_DIRS = new Set([
+  'common', 'scripts', 'manifests', 'schemas',
+  'node_modules', '.git', '.obsidian', 'posts',
+  '.trash',
+])
 const SCHEMA_PATH = path.join(ROOT, 'schemas', 'frontmatter.schema.json')
 
 // 允许的 Frontmatter 字段（与 schema 保持同步）
@@ -27,14 +35,15 @@ const ALLOWED_FIELDS = new Set([
 ])
 
 /** 递归扫描 .md 文件 */
-function scanMarkdownFiles(dir) {
+function scanMarkdownFiles(dir, depth = 0) {
   const results = []
   if (!fs.existsSync(dir)) return results
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     if (entry.name.startsWith('.')) continue
     const fullPath = path.join(dir, entry.name)
     if (entry.isDirectory()) {
-      results.push(...scanMarkdownFiles(fullPath))
+      if (depth === 0 && EXCLUDED_DIRS.has(entry.name)) continue
+      results.push(...scanMarkdownFiles(fullPath, depth + 1))
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
       results.push(fullPath)
     }
